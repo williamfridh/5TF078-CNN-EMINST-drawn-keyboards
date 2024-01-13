@@ -1,0 +1,35 @@
+{
+  "filter": {
+    "edge_detection_lower_threshold": 50.0,
+    "edge_detection_upper_threshold": 100.0,
+    "brightness": 1,
+    "contrast": 50,
+    "min_circumference": 200.0,
+    "threshold": 138,
+    "blur": 5,
+    "min_center_point_distance": 200
+  },
+  "camera": {
+    "device_index": 0,
+    "resolutions": [
+      [
+        640,
+        360
+      ],
+      [
+        720,
+        480
+      ],
+      [
+        1920,
+        1080
+      ]
+    ],
+    "resolution_index": 2
+  },
+  "feed": {
+    "show_edge_detection": true,
+    "show_filtered_feed": true,
+    "contour_thickness": 6.0
+  }
+}
