@@ -1,4 +1,4 @@
-# 5TF078-CNN-EMINST-drawn-keyboards
+# UMU_5TF078_Paper_Keyboard_Tracker
 ### The use of CNN and ROI for classifying drawn keys
 
 <img src="https://skillicons.dev/icons?i=py,tensorflow,latex" />
